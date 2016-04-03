@@ -1,0 +1,6 @@
+# Ignore files.
+
+typings/**/**
+node_modules/**/**
+app/**/*.js
+app/**/*.js.map
